@@ -5,7 +5,7 @@ Requires at least: 2.0
 Tested up to: 2.7.1
 Stable tag: trunk
 
-Replaces Twitter usernames (@spitblog) with correctly linked ones (a href="https://twitter.com/spitblog")
+Replaces Twitter usernames (@larsreineke) with correctly linked ones (<a href="https://twitter.com/larsreineke">@larsreineke</a>)
 
 == Description ==
 
@@ -13,8 +13,8 @@ Whenever you wanted to refer to another Twitter user, you had to write his/her u
 
 Now let the Twitter Name Replacer do that for you.
 
-* @spitblog will be displayed as <a href="https://twitter.com/spitblog">@spitblog</a>
-* !@spitblog will be displayed as @spitblog (without link)
+* @larsreineke will be displayed as <a href="https://twitter.com/larsreineke">@larsreineke</a>
+* !@larsreineke will be displayed as @larsreineke (without link)
 * mail addresses will be recognized and skipped
 
 == Installation ==
