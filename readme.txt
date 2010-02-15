@@ -2,7 +2,7 @@
 Contributors: spitblog
 Tags: twitter, username, post, replace
 Requires at least: 2.0
-Tested up to: 2.8
+Tested up to: 2.9.1
 Stable tag: trunk
 
 Replaces Twitter usernames (@larsreineke) with correctly linked ones (<a href="https://twitter.com/larsreineke">@larsreineke</a>)

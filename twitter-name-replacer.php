@@ -3,7 +3,7 @@
 Plugin Name: Twitter Name Replacer
 Plugin URI: http://www.spitblog.de/twitter-name-replacer
 Description: Replaces @something with https://twitter.com/something
-Version: 0.1
+Version: 0.2
 Author: Lars Reineke
 Author URI: http://www.spitblog.de
 */
